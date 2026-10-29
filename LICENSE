@@ -1,0 +1,70 @@
+results runner: End User Licence
+
+Copyright (c) 2026 Swimming South Australia Inc. (SwimmingSA). All rights reserved.
+
+This repository holds the built, ready-to-run versions of results runner and the
+files the app uses to check for a newer version. It does not hold the source code,
+which is not published.
+
+1. What you may do
+
+   You may download results runner and run it on computers you own or control,
+   for swimming administration: ratifying records, running meets and carnivals,
+   and the related reporting the app provides. This applies to SwimmingSA, its
+   member clubs, officials and volunteers, and to other swimming bodies with
+   SwimmingSA's agreement.
+
+   You may make copies as needed to install and back up the app.
+
+2. What you may not do
+
+   You may not sell, rent, sublicense or otherwise distribute results runner
+   to anyone else. Point them to this repository instead.
+
+   You may not modify, decompile, disassemble or reverse engineer the app, or
+   extract its source code or assets, except where the law expressly allows it
+   regardless of this clause.
+
+   You may not remove or alter any copyright, trademark or version notice in
+   the app or its files.
+
+   You may not use the SwimmingSA name, logo or brand assets bundled with the
+   app for any purpose other than running the app.
+
+3. Data
+
+   Everything results runner reads and writes stays on your computer or in the
+   folder you choose. SwimmingSA does not receive it through the app. Records,
+   results and personal details you process with the app remain your
+   responsibility under the privacy rules that apply to you.
+
+4. Updates
+
+   The app may check this repository for a newer version and tell you one is
+   available. Downloading it is your choice. SwimmingSA may change or withdraw
+   releases at any time.
+
+5. No warranty
+
+   results runner is provided as is, without warranty of any kind, express or
+   implied, including fitness for a particular purpose. Records ratified with it
+   remain subject to the rules and approvals of the governing body concerned;
+   the app assists that process and does not replace it.
+
+6. Limitation of liability
+
+   To the extent the law allows, SwimmingSA is not liable for any loss or damage
+   arising from the use of, or inability to use, results runner, including lost
+   or incorrect data. Nothing in this licence excludes rights you have under the
+   Australian Consumer Law that cannot be excluded.
+
+7. Ending the licence
+
+   This licence ends if you breach it. You must then delete every copy of the
+   app you hold. Sections 3 to 6 survive.
+
+8. Governing law
+
+   This licence is governed by the laws of South Australia, Australia.
+
+Questions: contact SwimmingSA.
