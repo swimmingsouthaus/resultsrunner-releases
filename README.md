@@ -8,13 +8,13 @@ Go to **Releases** and take the file for your computer:
 
 | File | For |
 |---|---|
-| `RecordRunner-Windows.exe` | Windows |
-| `RecordRunner-Mac-AppleSilicon.zip` | Mac with an Apple chip (M1 or later) |
-| `RecordRunner-Mac-Intel.zip` | Mac with an Intel chip |
+| `ResultsRunner-<version>-win-x64.exe` | Windows: an installer. Run it; results runner goes in the Start menu and on the desktop and opens. |
+| `ResultsRunner-<version>-mac-arm64.dmg` | Mac with an Apple chip (M1 or later): open it and drag results runner to Applications. |
+| `ResultsRunner-<version>-mac-x64.dmg` | Mac with an Intel chip: the same. |
 
-Put it in a folder of its own and open it. It keeps its data in a `data` folder beside itself, so replacing the file with a newer version keeps everything.
+The app keeps its data in its own folder on the computer (Settings, Show the data folder), so a newer version keeps everything. On Windows the app downloads a newer version in the background and installs it when it next opens; on a Mac it shows the download link.
 
-The files are not signed, so Windows and macOS will warn on first open. Windows: More info, then Run anyway. Mac: Done, then System Settings, Privacy and Security, Open Anyway.
+The files are not signed yet, so Windows and macOS warn on first open. Windows: More info, then Run anyway. Mac: Done, then System Settings, Privacy and Security, Open Anyway.
 
 ## Licence
 
